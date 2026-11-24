@@ -1,0 +1,6 @@
+{
+  "name": "IOCScope",
+  "description": "Automated Indicator of Compromise (IOC) extraction, enrichment, and threat intelligence triage from unstructured incident reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
